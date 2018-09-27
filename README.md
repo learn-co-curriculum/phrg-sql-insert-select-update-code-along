@@ -196,4 +196,8 @@ sqlite> DELETE FROM cats WHERE id = 2;
 
 Notice that this time we selected the row to delete using the Primary Key column. Remember that every table row has a Primary Key column that is unique. Lil' Bub was the second row in the database and thus had an id of `2`.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-insert-select-update-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-insert-select-update-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Inserting, Selecting, Updating, and Deleting Database Rows</p>
